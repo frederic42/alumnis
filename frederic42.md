@@ -17,10 +17,10 @@ objective: Apprendre et comprendre le développement web afin de participer à l
 # don't touch that
 template: students
 description:
-    Après avoir travaillé dans le milieu du BTP pendant quelques années, 
-    maintenant agé de 28 ans, j'ai eu l'opportunité de rejoindre le monde du développement numérique et les migraines qui vont avec :)
-    armé de chips et de redbull, je suis plus motivé que jamais, pour attaquer le parcours développeur d'application Python.
-
+    M'intérresant depuis plusieurs années au developpement informatique sans oser en ouvir la porte, je me lance enfin dans 
+    l'aventure, la curiosité l'ayant emporté, Python par intuition. J'espère pouvoir appréhender et maîtriser le domaine 
+    du developpement informatique et de pouvoir créer des applications utiles.
+    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: benjamin77.jpg
