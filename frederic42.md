@@ -12,8 +12,7 @@ date: 2019-07-07 17:25
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir le meilleur dresseur de pokemon! et sinon devenir développeur d'application python.
-short_description: aime les nouvelles technologies, le reggae et les paupiettes!
+objective: Apprendre et comprendre le développement web afin de participer à la révolution numérique.
 
 # don't touch that
 template: students
